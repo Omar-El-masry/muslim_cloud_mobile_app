@@ -1,0 +1,6 @@
+{
+  "appName": "Muslim Cloud",
+  "@appName": {
+    "description": "The main application name used on our website"
+  }
+}
